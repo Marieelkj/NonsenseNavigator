@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "ridicules software youtube",
+  "version": "1.0.0",
+  "description": "gives you a radom video that you probaly won't like or did not expect(ridicules)",
+  "permissions": [
+    "activeTab",
+    "tabs",
+    "browsingData",
+    "search",
+    "scripting",
+    "webNavigation"
+  ],
+  "host_permissions":["https://*.youtube.com/*"],
+  "background": {
+    "service_worker": "./background.js"
+  },
+
+  "action": {
+    "default_icon" : "assets/logo.png",
+    "default_popup": "popup.html"
+  }
+}
