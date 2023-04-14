@@ -4,7 +4,7 @@
 Implementation of Nonsense Navigator.
 
 
-#How to test in chrome browser: 
+# How to test in chrome browser: 
 - Open Chrome 
 - Click on extensions and then manage extension
 - Then click load package and choose the code folder. 
