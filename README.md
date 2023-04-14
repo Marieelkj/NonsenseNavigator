@@ -9,5 +9,5 @@ Implementation of Nonsense Navigator.
 - Click on extensions and then manage extension
 - Then click load package and choose the code folder. 
 - Go to youtbe page and try. 
-- If alert function becomes too anoying the comment it out. 
+- If alert function becomes too anoying then comment it out. 
 - Have fun
